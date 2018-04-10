@@ -1,3 +1,5 @@
-import './application.sass'
-document.body.insertAdjacenHTML('afterbegin', 'webpacker works!');
-dadadad
+import "./application.css";
+import "init";
+import "components/page/page";
+
+document.body.insertAdjacentHTML("afterbegin", "Webpacker works!");
